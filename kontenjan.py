@@ -8,7 +8,7 @@ import ctypes
 wb = openpyxl.Workbook()
 ws = wb.active
 
-print("Course Capacity Checker Created by Ali Yilbasi & Ahmet Bakkal 2022\n")
+print("Course Capacity Checker Created by Ahmet Bakkal 2022\n")
 ders = input("Course Code (i.e. END458E):").upper()
 crn = input("CRN Number (i.e. 21268):")
 
